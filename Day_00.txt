@@ -1,0 +1,22 @@
+ Requred Tools and Softwear
+1. Understanding Fo "BASH" 
+2. Linux OS
+3. Connect SSH
+4. Text Editor (vim, nano, gedit, vi)
+
+ Requred Shell Commands
+1. echo for printing
+2. mkdir for new Folder create
+3. Toche for create a file
+4. vim >> :wq -- wiret and quit
+5. vim >> :qa -- quit and without saveing
+
+ Basic Scripting Skills
+1. Variables
+2. Arguments
+3. conditionals: if, else, elif
+4. Loops: for, While
+5. Functions
+
+ Intermediate Scripting and Tehcniques
+1
